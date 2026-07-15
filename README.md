@@ -33,7 +33,6 @@
 - Focus on consistency and problem-solving  
 
 🔹 Coming Soon:
-- TODO App (CLI + Web)
 - Mini AI Project
 - Blockchain Basics Project
 
