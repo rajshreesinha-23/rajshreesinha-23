@@ -2,7 +2,7 @@
 
 🎓 CS Student @ Dayananda Sagar University  
 💻 Aspiring Full-Stack Developer (MERN + Django)  
-🧠 Currently Learning AI/LLMs & Blockchain  
+🧠 Currently Learning AI/LLMs 
 🚀 Open to Internships  
 
 ---
