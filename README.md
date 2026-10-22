@@ -90,12 +90,6 @@ Regulatory documents are long, dense and hard to read. RegulaLens AI uses LLMs t
 
 ---
 
-### 🛡️ Sentinel AI (AI Risk Manager)
-**Multi-agent fraud investigation system**
-
-Specialist AI agents (Transaction, Behavior, Network, Investigation Policy) each examine a different angle of a suspicious transaction, then agree or disagree and explain their reasoning.
-
----
 
 ### ⚡ Vajra Pramana — 🚧 Ongoing Project
 **Human-authorized AI access platform**
@@ -106,14 +100,7 @@ Blockchain-based platform for identity verification, permission checks and risk-
 
 ---
 
-## 🎯 Goals (2026)
 
-- ✅ Master DSA  
-- 🚀 Build 5+ projects  
-- 💼 Get Internship  
-- 🧠 Learn AI + Blockchain  
-
----
 
 ## ✍️ Random Dev Quote
 
