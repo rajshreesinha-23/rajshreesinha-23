@@ -102,11 +102,14 @@ Blockchain-based platform for identity verification, permission checks and risk-
 
 
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<div align="center">
 
----
+### *"Talk is cheap. Show me the code."*
+**— Linus Torvalds**
+
+</div>
 
 ## 📫 Connect With Me
 
