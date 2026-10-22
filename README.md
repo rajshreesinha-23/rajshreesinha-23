@@ -59,34 +59,6 @@
 
 ---
 
-## 🚀 Projects
-
-🔐 **FreelanceVault** – Blockchain escrow for freelancers: client funds are locked and released only on work approval. [🔗 Repo](https://github.com/rajshreesinha-23/freelance-vault)
-
-📄 **RegulaLens AI** – LLM-powered platform that analyzes long regulatory documents and surfaces the key points. [🔗 Repo](https://github.com/rajshreesinha-23/regulalens-ai)
-
-🛡️ **Sentinel AI** – Multi-agent fraud investigation system where specialist agents debate and explain their verdicts.
-
-⚡ **Vajra Pramana** 🚧 *(Ongoing)* – Human-authorized AI access platform · Next.js, Node.js, Hyperledger Fabric, PostgreSQL · SIH 2026 internal hackathon
-
-💻 Languages:
-- C
-- C++
-- Python
-- JavaScript
-
-🌐 Web Development:
-- HTML, CSS, JavaScript
-- MERN Stack
-- Django
-- Next.js
-
-🧠 Exploring:
-- AI / LLMs & Multi-Agent Systems
-- Blockchain / Web3
-
----
-
 ## 📊 GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=rajshreesinha-23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="200" />
@@ -103,45 +75,24 @@
 
 ## 🚀 Projects
 
-### 🔐 FreelanceVault
-**Blockchain-based freelance escrow platform**
+🔐 **FreelanceVault** – Blockchain escrow for freelancers: client funds are locked and released only on work approval. [🔗 Repo](https://github.com/rajshreesinha-23/freelance-vault)
 
-Freelancers and clients often don't trust each other with money: clients fear paying for work that never arrives, and freelancers fear doing the work and never getting paid. FreelanceVault solves this with a smart-contract escrow.
+📄 **RegulaLens AI** – LLM-powered platform that analyzes long regulatory documents and surfaces the key points. [🔗 Repo](https://github.com/rajshreesinha-23/regulalens-ai)
 
-- 💰 Client deposits the payment into escrow before work begins
-- 📦 Funds are released to the freelancer only when the client approves the work
-- ⚖️ No middleman needed, and the rules are transparent and enforced by code
-- 🛠️ Stack: Blockchain / Web3
+🛡️ **Sentinel AI** – Multi-agent fraud investigation system where specialist agents debate and explain their verdicts.
 
-[🔗 Repo](https://github.com/rajshreesinha-23/freelance-vault)
+⚡ **Vajra Pramana** 🚧 *(Ongoing)* – Human-authorized AI access platform · Next.js, Node.js, Hyperledger Fabric, PostgreSQL · SIH 2026 internal hackathon
 
 ---
 
-### 📄 RegulaLens AI
-**AI-powered regulatory document analysis platform**
+## 🎯 Goals (2026)
 
-Regulatory documents are long, dense and hard to read. RegulaLens AI uses LLMs to help people understand them quickly instead of reading hundreds of pages by hand.
-
-- 📑 Takes in regulatory documents for analysis
-- 🧠 Uses AI/LLMs to pull out and explain the key points
-- ⏱️ Aims to cut the time spent on manual compliance reading
-- 🛠️ Stack: AI / LLMs
-
-[🔗 Repo](https://github.com/rajshreesinha-23/regulalens-ai)
+- ✅ Master DSA  
+- 🚀 Build 5+ projects  
+- 💼 Get Internship  
+- 🧠 Learn AI + Blockchain  
 
 ---
-
-
-### ⚡ Vajra Pramana — 🚧 Ongoing Project
-**Human-authorized AI access platform**
-
-Blockchain-based platform for identity verification, permission checks and risk-aware authorization of sensitive AI actions. Selected for the SIH 2026 internal hackathon.
-
-🛠️ Next.js · Node.js · Hyperledger Fabric · PostgreSQL
-
----
-
-
 
 ## ✍️ Dev Quote
 
@@ -151,6 +102,8 @@ Blockchain-based platform for identity verification, permission checks and risk-
 **— Linus Torvalds**
 
 </div>
+
+---
 
 ## 📫 Connect With Me
 
