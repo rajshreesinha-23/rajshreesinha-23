@@ -62,21 +62,47 @@
 
 ## 🚀 Projects
 
-🔹 **FreelanceVault** – Blockchain-based freelance escrow platform  
+### 🔐 FreelanceVault
+**Blockchain-based freelance escrow platform**
+
+Freelancers and clients often don't trust each other with money: clients fear paying for work that never arrives, and freelancers fear doing the work and never getting paid. FreelanceVault solves this with a smart-contract escrow.
+
+- 💰 Client deposits the payment into escrow before work begins
+- 📦 Funds are released to the freelancer only when the client approves the work
+- ⚖️ No middleman needed, and the rules are transparent and enforced by code
+- 🛠️ Stack: Blockchain / Web3
+
 [🔗 Repo](https://github.com/rajshreesinha-23/freelance-vault)
 
-🔹 **RegulaLens AI** – Regulatory document analysis platform  
+---
+
+### 📄 RegulaLens AI
+**AI-powered regulatory document analysis platform**
+
+Regulatory documents are long, dense and hard to read. RegulaLens AI uses LLMs to help people understand them quickly instead of reading hundreds of pages by hand.
+
+- 📑 Takes in regulatory documents for analysis
+- 🧠 Uses AI/LLMs to pull out and explain the key points
+- ⏱️ Aims to cut the time spent on manual compliance reading
+- 🛠️ Stack: AI / LLMs
+
 [🔗 Repo](https://github.com/rajshreesinha-23/regulalens-ai)
 
-🔹 **Sentinel AI (AI Risk Manager)** – Multi-agent fraud investigation system where specialist agents (Transaction, Behavior, Network, Policy) debate and explain their verdicts
+---
 
-🔹 **Vajra Pramana** – Human-authorized AI access platform with risk-aware permission checks (Next.js, Node.js, Hyperledger Fabric, PostgreSQL) · Selected for SIH 2026 internal hackathon
+### 🛡️ Sentinel AI (AI Risk Manager)
+**Multi-agent fraud investigation system**
 
-🔹 **DSA Practice** – Array & string problems in C, C++ & Python, focused on consistency  
-[🔗 Repo](https://github.com/rajshreesinha-23/dsa-practice)
+Specialist AI agents (Transaction, Behavior, Network, Investigation Policy) each examine a different angle of a suspicious transaction, then agree or disagree and explain their reasoning.
 
-🔹 **Portfolio** – Personal portfolio showcasing projects, skills and journey in AI, LLMs and GenAI  
-[🔗 Repo](https://github.com/rajshreesinha-23/portfolio)
+---
+
+### ⚡ Vajra Pramana — 🚧 Ongoing Project
+**Human-authorized AI access platform**
+
+Blockchain-based platform for identity verification, permission checks and risk-aware authorization of sensitive AI actions. Selected for the SIH 2026 internal hackathon.
+
+🛠️ Next.js · Node.js · Hyperledger Fabric · PostgreSQL
 
 ---
 
