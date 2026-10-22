@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Rajshree Sinha
 
-🎓 CS Student @ Dayananda Sagar University  
+🎓 CS Student @ Dayananda Sagar University, Bengaluru  
+🏛️ Vice Chair, ACM DSU  
 💻 Aspiring Full-Stack Developer (MERN + Django)  
 🧠 Currently Learning AI/LLMs  
 🚀 Open to Internships  
@@ -10,6 +11,7 @@
 ## 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -21,12 +23,14 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/hyperledger_fabric-2F3134?style=flat&logo=hyperledger&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 💻 Languages:
 - C
+- C++
 - Python
 - JavaScript
 
@@ -34,9 +38,10 @@
 - HTML, CSS, JavaScript
 - MERN Stack
 - Django
+- Next.js
 
 🧠 Exploring:
-- AI / LLMs
+- AI / LLMs & Multi-Agent Systems
 - Blockchain / Web3
 
 ---
@@ -55,15 +60,23 @@
 
 ---
 
-## 📂 Projects
+## 🚀 Projects
 
-🔹 DSA Practice  
-- Solving array & string problems in C & Python  
-- Focus on consistency and problem-solving  
+🔹 **FreelanceVault** – Blockchain-based freelance escrow platform  
+[🔗 Repo](https://github.com/rajshreesinha-23/freelance-vault)
 
-🔹 Coming Soon:
-- Mini AI Project
-- Blockchain Basics Project
+🔹 **RegulaLens AI** – Regulatory document analysis platform  
+[🔗 Repo](https://github.com/rajshreesinha-23/regulalens-ai)
+
+🔹 **Sentinel AI (AI Risk Manager)** – Multi-agent fraud investigation system where specialist agents (Transaction, Behavior, Network, Policy) debate and explain their verdicts
+
+🔹 **Vajra Pramana** – Human-authorized AI access platform with risk-aware permission checks (Next.js, Node.js, Hyperledger Fabric, PostgreSQL) · Selected for SIH 2026 internal hackathon
+
+🔹 **DSA Practice** – Array & string problems in C, C++ & Python, focused on consistency  
+[🔗 Repo](https://github.com/rajshreesinha-23/dsa-practice)
+
+🔹 **Portfolio** – Personal portfolio showcasing projects, skills and journey in AI, LLMs and GenAI  
+[🔗 Repo](https://github.com/rajshreesinha-23/portfolio)
 
 ---
 
