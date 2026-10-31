@@ -66,8 +66,7 @@ class Rajshree:
 
 ## 🧩 Problem Solving
 
-I practice DSA consistently on **LeetCode** and push my solutions to
-**[dsa-practice](https://github.com/rajshreesinha-23/dsa-practice)** (87+ commits).
+I practice DSA consistently on **LeetCode** (87+ commits).
 
 <div align="center">
 
@@ -80,8 +79,7 @@ I practice DSA consistently on **LeetCode** and push my solutions to
 </div>
 
 - 🧠 **Topics practiced:** Arrays, Sliding Window, Prefix Sums, Two Pointers
-- 🔥 **Highlights on GitHub:** Kadane's Algorithm, Trapping Rain Water, Product of Array Except Self, Next Permutation, Spiral Matrix
-- 💻 **Languages:** C, Python
+- 💻 **Languages:** C, Python,C++
 - 🎯 **Next up:** Strings → Linked Lists → Stacks & Queues → Trees & Graphs → Dynamic Programming
 ---
 
