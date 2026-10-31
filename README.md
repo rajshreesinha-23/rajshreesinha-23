@@ -66,13 +66,23 @@ class Rajshree:
 
 ## 🧩 Problem Solving
 
-I treat DSA as a daily habit and push my solutions to
+I practice DSA consistently on **LeetCode** and push my solutions to
 **[dsa-practice](https://github.com/rajshreesinha-23/dsa-practice)** (87+ commits).
 
-- ✅ Arrays covered across **Easy → Medium → Hard**, in **C & Python**
-- 🔥 Highlights: Kadane's Algorithm, Trapping Rain Water, Product of Array Except Self, Next Permutation, Spiral Matrix, Subarray Sum problems (sliding window / prefix sums)
-- 🎯 Next up: Strings → Linked Lists → Stacks & Queues → Trees & Graphs → Competitive Programming
+<div align="center">
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-rajshreesinha-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rajshreesinha/)
+
+<a href="https://leetcode.com/u/rajshreesinha/">
+  <img src="https://leetcard.jacoblin.cool/rajshreesinha?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
+</div>
+
+- 🧠 **Topics practiced:** Arrays, Sliding Window, Prefix Sums, Two Pointers
+- 🔥 **Highlights on GitHub:** Kadane's Algorithm, Trapping Rain Water, Product of Array Except Self, Next Permutation, Spiral Matrix
+- 💻 **Languages:** C, Python
+- 🎯 **Next up:** Strings → Linked Lists → Stacks & Queues → Trees & Graphs → Dynamic Programming
 ---
 
 ## 🏆 Hackathons & Leadership
