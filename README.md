@@ -64,19 +64,6 @@ class Rajshree:
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| 🤖 **AI Code Reviewer** | Analyzes code, flags potential issues and gives actionable suggestions using LLMs | `Python` `FastAPI` `LLM APIs` |
-| 🏛️ **Government Scheme Finder** | RAG-based app that finds relevant government schemes from natural-language queries | `Python` `LangChain` `RAG` `Claude API` |
-| 🌉 **Cortex Bridge** | Full-stack web app with AI capabilities integrated end to end | `React` `Node.js` `MongoDB` `OpenAI` |
-| 📊 **Data Governance Platform** | Web platform to manage and organize data governance workflows | `Python` `Django` |
-| 💰 **Personal Expense Tracker** | Finance app to track and manage everyday expenses | `Java` `HTML` `CSS` |
-| 🌐 **[Developer Portfolio](https://github.com/rajshreesinha-23/portfolio)** | Terminal-inspired, minimal dark UI portfolio site | `HTML` `CSS` `JavaScript` |
-
----
-
 ## 🧩 Problem Solving
 
 I treat DSA as a daily habit and push my solutions to
