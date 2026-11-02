@@ -85,10 +85,10 @@ I practice DSA consistently on **LeetCode** (87+ commits).
 
 ## 🏆 Hackathons & Leadership
 
-- 🏆 **Smart India Hackathon**: qualifier
+- 🏆 **Smart India Hackathon**: 2X internal round qualifier
 - 🌌 **NASA Space Apps Challenge**: participant (2024 & 2025)
 - 🚀 National-level & AI/GenAI hackathon participant
-- 👩‍💼 **ACM DSU**: Membership Chair
+- 👩‍💼 **ACM DSU**: Vice Chair
 
 ---
 
